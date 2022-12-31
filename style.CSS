@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: #EEE;
+
+}
+/* Contenar style start  */
+.contenar{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color:#e4f9f5;
+    padding: 20px;
+
+}
+
+/* Header style start  */
+header{
+
+}
+#Photo{
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    
+}
+#Photo:hover{
+    border: none;
+    border-radius: 10%;
+}
+
+
+.header-bio{
+    float: left;
+    padding: 30px;  
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+
+}
+h1:hover,h2:hover,h3:hover,h4:hover,h5:hover,h6:hover{
+   background-color: black;
+   color: white;
+   text-align: center;
+
+}
+ul li:hover{
+    color: rgb(236, 82, 55);
+    text-decoration: underline;
+
+}
+
+p:hover{
+    color: rgb(207, 39, 10);
+
+
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+    text-decoration: none;
+    color:teal;
+    font-weight: bold;
+
+    
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+/* Header style End  */
+/* Main style start  */
+#Personar-Section{
+
+
+}
+.contant{
+
+    margin-bottom: 30px;
+
+
+}
+.left-div{
+    width: 30%; 
+    float: left;
+    
+  
+
+}
+.Right-div{
+
+    width: 70%;
+    float: left;
+   
+
+}
+
+.list1{
+    float: left;
+
+}
+
+.list2{
+    float: right;
+
+}
+
+.list-div1 ul li, .list-div2 ul li{
+    color: teal;
+    padding: 5px;
+
+}
+
+.list-div2 ul li a{
+    text-decoration: none;
+    color: teal
+}
+
+.common-hr{
+    border: 1px  solid  black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+    
+
+}
+
+.section1{
+    float: left;
+    width: 45%;
+    padding: 10px;
+}
+.section2{
+    float: right;
+    padding: 10px;
+    width: 45%;
+}
+
+.MSS, .BSS, .HSC, .SSC {
+    padding: 20px;
+    color: teal;
+    
+    
+}
+.MSS caption, .BSS caption, .HSC caption, .SSC caption {
+   font-size:30px;
+    
+    
+}
+.MSS ul li, .BSS ul li, .HSC ul li, .SSC ul li {
+    
+    margin: 5px;
+    
+}
+.References{
+    margin: 20px;
+    padding: 20px;
+}
+
+.Nam1{
+    width: 45%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.Nam2{
+    width: 45%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+
+/* Main style End */
+
+/* Footer style strat */
+.bottom-contenar{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    
+}
+.bottom-contenar a{
+    padding: 20px;
+    margin:20px;
+    text-decoration: none;
+    color: #e4f9f5;
+}
+.bottom-contenar p{
+    color: #e4f9f5;
+    margin: 20px;
+    margin-bottom: 0px;
+   
+}
+.hover-style:hover{
+    background-color: tomato;
+}
+
+
+
+
+/* Footer style End */
+
+/* Contenar style End  */
+
